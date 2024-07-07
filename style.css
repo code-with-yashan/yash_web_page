@@ -1,0 +1,143 @@
+*{
+    margin:0px;
+    padding: 0px;
+    border: border-box;
+    font-family: arial;
+}
+body{
+    background-image: url(../Images/photo.jpg.jpg);
+}
+
+.navbar{
+    height: 60px;
+    background-color: black;
+    color: white;
+    display: flex;
+
+}
+img{
+    height: 15px;
+    width: 40px;
+}
+
+.name-1{
+    padding-left: 100px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.name-2{
+    text-align: center;
+    padding-left: 100px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.name-3{
+    text-align: center;
+    padding-left: 100px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.name-4{
+    text-align: center;
+    padding-left: 100px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.name-5{
+    text-align: center;
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+
+.navbar-2{
+    height: 40px;
+    background-color:black;
+    color:fuchsia;
+    display: flex;
+    padding-top: 10PX; 
+    font-size:xx-large;
+    font-style: italic;  
+    text-decoration: underline;
+}
+
+
+.name-a{
+    font-size: 30px;
+    padding-left: 25%;   
+    text-align: center;
+   
+}
+
+.nav-3{
+    font-size: 25px;
+    text-decoration: underline;
+    padding-top: 20px;
+    color: chartreuse;
+}
+
+p{
+   padding-top: 10px;
+   color: white;
+   text-align:justify;
+   font-size: 15px;
+   
+}
+
+img{
+    height: 300px;
+    width: 500px;
+    padding-top: 40px;
+    padding-left:100px;
+    background-origin: padding-box;
+    
+}
+
+.nav-4{
+    padding-top: 20px;
+}
+
+
+h1{
+    font-size: xx-large;
+    font-style: italic;
+    background-color: lawngreen;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+h2{
+    font-size: 500%;
+    font-style: italic;
+    color:chartreuse;
+     padding-top: 30px;
+     text-align: center;
+     text-decoration:underline;
+}
+
+p{
+    font-size: x-large;
+    color:azure;
+    font-style:italic;
+}
+
+.navbar-7{
+    height: 80px;
+    width: 80px;
+    border: 30px dashed white;
+}
+
+.box-model{
+    height: 200px;
+    width: 200px;
+    border: 40px solide black;
+    background-color:blueviolet;
+    color:white;
+    text-align:center;
+    text-align: justify;
+    position: absolute;
+    left:50%;
+}
